@@ -63,5 +63,7 @@ public class Databazepojisteni {
 
         }
 
+        System.out.println("Konec programu");
+        
     }
 }
